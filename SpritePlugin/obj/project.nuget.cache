@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lb1kk6cu+5fnaTP4yd+PkzBfbpnATOWVFwj7TXvzrRGGVt1m0nvjfBGd23NHDUZ3IFdKDyaGsi0zkWE771UenA==",
+  "success": true,
+  "projectFilePath": "E:\\CFW NSwitch\\Github\\DarkKrimsonSpritePlugin\\SpritePlugin\\DarkKrimsonSpritePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy\\.nuget\\packages\\indexrange\\1.0.2\\indexrange.1.0.2.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\pkhex.core\\22.12.19\\pkhex.core.22.12.19.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

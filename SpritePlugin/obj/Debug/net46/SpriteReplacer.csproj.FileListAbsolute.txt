@@ -1,0 +1,7 @@
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Debug\net46\SpriteReplacer.csproj.AssemblyReference.cache
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Debug\net46\SpriteReplacer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Debug\net46\SpriteReplacer.AssemblyInfoInputs.cache
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Debug\net46\SpriteReplacer.AssemblyInfo.cs
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Debug\net46\SpriteReplacer.csproj.CoreCompileInputs.cache
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Debug\net46\SpriteReplacer.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Debug\net46\SpriteReplacer.pdb

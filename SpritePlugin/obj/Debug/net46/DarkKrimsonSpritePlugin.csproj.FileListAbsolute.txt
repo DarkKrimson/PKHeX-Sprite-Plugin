@@ -1,0 +1,48 @@
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\DarkKrimsonSpritePlugin.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\DarkKrimsonSpritePlugin.pdb
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\IndexRange.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\PKHeX.Core.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\System.Buffers.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\System.Memory.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\bin\Debug\net46\System.ValueTuple.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.AssemblyReference.cache
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.AssemblyInfoInputs.cache
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.AssemblyInfo.cs
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.CoreCompileInputs.cache
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.CopyComplete
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.dll
+C:\DarkKrimsonSpritePlugin\SpriteReplacer\obj\Debug\net46\DarkKrimsonSpritePlugin.pdb
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.AssemblyReference.cache
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.AssemblyInfoInputs.cache
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.AssemblyInfo.cs
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.CoreCompileInputs.cache
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.pdb
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\DarkKrimsonSpritePlugin.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\DarkKrimsonSpritePlugin.pdb
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\IndexRange.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\PKHeX.Core.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\System.Buffers.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\System.Memory.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\bin\Debug\net46\System.ValueTuple.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\DarkKrimsonSpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.CopyComplete
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\DarkKrimsonSpritePlugin.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\DarkKrimsonSpritePlugin.pdb
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\IndexRange.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\PKHeX.Core.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\System.Buffers.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\System.Memory.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\bin\Debug\net46\System.ValueTuple.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.AssemblyReference.cache
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.AssemblyInfoInputs.cache
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.AssemblyInfo.cs
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.CoreCompileInputs.cache
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.csproj.CopyComplete
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.dll
+E:\CFW NSwitch\Github\DarkKrimsonSpritePlugin\SpritePlugin\obj\Debug\net46\DarkKrimsonSpritePlugin.pdb

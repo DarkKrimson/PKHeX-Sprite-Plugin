@@ -1,0 +1,18 @@
+C:\Release\net46\DarkKrimsonSpritePlugin.dll
+C:\Release\net46\DarkKrimsonSpritePlugin.pdb
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\DarkKrimsonSpritePlugin.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\DarkKrimsonSpritePlugin.pdb
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\IndexRange.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\PKHeX.Core.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\System.Buffers.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\System.Memory.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\System.Runtime.CompilerServices.Unsafe.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\bin\Release\net46\System.ValueTuple.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.csproj.AssemblyReference.cache
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.AssemblyInfoInputs.cache
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.AssemblyInfo.cs
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.csproj.CoreCompileInputs.cache
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.csproj.CopyComplete
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.dll
+E:\CFW NSwitch\Github\PokeSpriteReplacer\SpriteReplacer\obj\Release\net46\DarkKrimsonSpritePlugin.pdb

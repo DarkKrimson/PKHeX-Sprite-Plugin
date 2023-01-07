@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework>
+    <OutputType>Library</OutputType>
+    <LangVersion>8</LangVersion>
+    <Nullable>enable</Nullable>
+	<AssemblyProduct>DarkKrimsonSpritePlugin</AssemblyProduct>
+	<AssemblyFileVersion>1.0</AssemblyFileVersion>
+	<AssemblyVersion>1.0</AssemblyVersion>
+	<FileVersion>1.0</FileVersion>
+	<NeutralLanguage>en</NeutralLanguage>
+	<RepositoryUrl>https://github.com/DarkKrimson/DarkKrimsonSpritePlugin</RepositoryUrl>
+	<PackageIcon>icon.png</PackageIcon>
+	<PackageProjectUrl>https://github.com/DarkKrimson/DarkKrimsonSpritePlugin</PackageProjectUrl>
+	<Description>Sprite Library for PKHeX </Description>
+	<Authors>Dark Krimson</Authors>
+	<Title>Dark Krimson's Sprite Plugin</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <PackageReference Include="PKHeX.Core" Version="22.12.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="PokeSprite.resources" />
+  </ItemGroup>
+
+</Project>

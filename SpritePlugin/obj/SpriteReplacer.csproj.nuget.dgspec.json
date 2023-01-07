@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\CFW NSwitch\\Github\\PokeSpriteReplacer\\SpriteReplacer\\SpriteReplacer.csproj": {}
+  },
+  "projects": {
+    "E:\\CFW NSwitch\\Github\\PokeSpriteReplacer\\SpriteReplacer\\SpriteReplacer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CFW NSwitch\\Github\\PokeSpriteReplacer\\SpriteReplacer\\SpriteReplacer.csproj",
+        "projectName": "SpriteReplacer",
+        "projectPath": "E:\\CFW NSwitch\\Github\\PokeSpriteReplacer\\SpriteReplacer\\SpriteReplacer.csproj",
+        "packagesPath": "C:\\Users\\Andy\\.nuget\\packages\\",
+        "outputPath": "E:\\CFW NSwitch\\Github\\PokeSpriteReplacer\\SpriteReplacer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "PKHeX.Core": {
+              "target": "Package",
+              "version": "[22.12.19, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
