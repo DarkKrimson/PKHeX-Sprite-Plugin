@@ -16,7 +16,7 @@ You should be able to build upon opening the .sln.
 To create your own sprite plugin you will need:
 
 1. Make edits to the sprites found in PKHeX/PKHeX.Drawing.PokeSprite/Resources/img
-2. Once you are happy with the sprites you created, use a Resource Generator to create a .resources file. 
+2. Once you are happy with the sprites you created, use [Resource Generator](https://github.com/hp3721/PokeSpriteReplacer/releases/download/v1.0.0/ResourceGenerator.zip) to create a .resources file. 
 3. Open the .sln and replace PokeSprite.resources with your own.
 4. build/rebuild the solution.
 5. You should now see a successful build and the .dll file will be located in bin\debug or bin\release directory.
